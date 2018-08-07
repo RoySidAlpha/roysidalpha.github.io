@@ -165,8 +165,6 @@ bool visited(node *n)
 
 bool traverse(node *head , string s)
 {
-	//if(head != NULL)
-	//	cout << "s : " << s << " head : " << head->data << " flag : " << head->flag << endl;
     if(!visited(head))
     {
         if(head == NULL)
