@@ -1,5 +1,3 @@
-# roysidalpha.github.io
-My Personal Website
 <!DOCTYPE html>
 <html lang="en">
 
